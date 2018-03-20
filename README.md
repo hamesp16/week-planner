@@ -10,3 +10,6 @@ It's a simple task planner for the week. You add the tasks you want to complete 
 - JUnit
 - Selenium
 - H2 Database
+
+
+[![Build Status](https://travis-ci.org/hamesp16/week-planner.svg?branch=master)](https://travis-ci.org/hamesp16/week-planner)

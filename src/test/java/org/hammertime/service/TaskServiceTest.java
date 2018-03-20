@@ -2,7 +2,6 @@ package org.hammertime.service;
 
 import org.hammertime.Application;
 import org.hammertime.entity.Task;
-import org.hammertime.entity.Weekday;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
