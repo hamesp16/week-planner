@@ -1,4 +1,4 @@
-# Week planner
+# Week planner [![Build Status](https://travis-ci.org/hamesp16/week-planner.svg?branch=master)](https://travis-ci.org/hamesp16/week-planner)
 
 A small project created to practice for a 48 hour exam in the course PG5100 Enterprise Programmering 1 at Høyskolen Kristiania og Westerdals. 
 
@@ -12,4 +12,4 @@ It's a simple task planner for the week. You add the tasks you want to complete 
 - H2 Database
 
 
-[![Build Status](https://travis-ci.org/hamesp16/week-planner.svg?branch=master)](https://travis-ci.org/hamesp16/week-planner)
+
